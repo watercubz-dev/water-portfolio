@@ -43,14 +43,14 @@ export default function Nagivate() {
           </div>
         </div>
         <div className="navbar-center">
-          <a className="normal-case text-xl text-white">Watercubz</a>
+          <a className="normal-case text-xl text-white">&lt;Watercubz/&gt;</a>
         </div>
       </div>
       <div className="hero min-h-screen bg-base-200">
         <div className="hero-content text-center">
           <div className="max-w-md">
             <h1 className="text-5xl">
-              Hi i'm<span className="p-5 font-extrabold">Watercubz👋</span>
+              <span className="p-6 font-extrabold"> &lt;Watercubz/&gt;</span>
             </h1>
             <p className="py-6">
               <span className="text-2xl">React Dev </span>

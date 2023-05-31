@@ -41,19 +41,14 @@ export default function About() {
               /*
             </div>
             <p className="p-6 text-green-600 font-bold">
-              "I am a web application developer who specializes in high-quality
-              applications using the latest technologies. With expertise in
-              recognized technologies such as JavaScript, HTML, CSS, React,
-              TypeScript, and Qwik, I ensure the delivery of exceptional
-              projects. Feel free to explore my portfolio in the other sections
-              to see some of my previous work." Please note that Qwik might not
-              be a widely recognized technology, and the mention of "other
-              sections" refers to a context that isn't clear. You can modify the
-              text according to your specific requirements.
+             Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis, eaque obcaecati. Placeat ipsa, aliquid perferendis vero mollitia ducimus totam, laboriosam dolore, iusto veniam numquam in sapiente est ex nam suscipit.
             </p>
-            <p className="p-6 text-green -600 font-bold">
+            <p className="p-6 text-green-600 font-bold">
                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati sequi delectus provident ipsam itaque vero, voluptas expedita modi doloribus numquam tempore placeat consectetur similique iure distinctio aliquam quod adipisci harum.
             </p>
+              <p className="p-6 text-green-600 font-bold">
+                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Obcaecati sequi delectus provident ipsam itaque vero, voluptas expedita modi doloribus numquam tempore placeat consectetur similique iure distinctio aliquam quod adipisci harum.
+              </p>
             <div className="text-left p-3 text-green-700 font-extrabold">
               */
             </div>
@@ -61,7 +56,7 @@ export default function About() {
           <div className="mt-3 mb-10 mx-1">
             <p className="text-green-700">
               Watercubz@DESKTOP-HP-QW-1334:/
-              <span className="text-blue-700">mount/users/routes$</span>
+              <span className="text-blue-800">mount/users/routes$</span>
             </p>
           </div>
         </div>

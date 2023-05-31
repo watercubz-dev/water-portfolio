@@ -4,7 +4,7 @@ export default function github() {
   return (
     <>
       <div className="m-5">
-        <Link href="/" className="btn btn-square m-2">
+        <Link href="/" className="btn btn-square m-3">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             className="h-6 w-6"
